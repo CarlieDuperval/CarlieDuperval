@@ -2,14 +2,14 @@
 - 👀 I’m interested in software Engineering / Web Development 
 - 🌱 I’m currently learning MERN/MEAN Stack (Mongo , Express, Angular/React, and Node) + Some SQL
 - 💞️ I’m looking to collaborate on cool projects 
-- 📫 Reach me on [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail]
+<!-- - 📫 Reach me on [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][linkedin]
 <br />
 
-<hr />
+<hr /> -->
 
-[gmail]: mailto:ritchellcarlie@gmail.com
-[linkedin]: https://www.linkedin.com/in/carlieduperval/
+<!-- [gmail]: mailto:ritchellcarlie@gmail.com
+[linkedin]: https://www.linkedin.com/in/carlieduperval/ -->
 
 
 ### Skills
@@ -40,6 +40,6 @@
 
 
 
-
-<!-- CarlieDuperval/CarlieDuperval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. -->
+<!-- 
+-- CarlieDuperval/CarlieDuperval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.  -->
