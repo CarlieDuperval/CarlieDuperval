@@ -1,16 +1,12 @@
-- 👋 Hi, I’m Carlie Duperval
-- 👀 I’m interested in software Engineering / Web Development 
+- 🤚🏾 Hi, I’m Carlie,
+  Tech lover 💕 💕 "In Code I Trust"
+  <br><br />
+- 👀 I’m interested in software Engineering / Web Development
 - 🌱 I’m currently learning MERN/MEAN Stack (Mongo , Express, Angular/React, and Node) + Some SQL
-- 💞️ I’m looking to collaborate on cool projects 
-<!-- - 📫 Reach me on [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][linkedin]
-<br />
+- 💞️ I’m looking to collaborate on cool projects
 
-<hr /> -->
-
-<!-- [gmail]: mailto:ritchellcarlie@gmail.com
-[linkedin]: https://www.linkedin.com/in/carlieduperval/ -->
-
+[gmail]: mailto:ritchellcarlie@gmail.com
+[linkedin]: https://www.linkedin.com/in/carlieduperval/
 
 ### Skills
 
@@ -22,9 +18,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
-
-
-
 
 ### Badges
 
@@ -38,8 +31,8 @@
 
 <a href="https://github.com/carlieduperval" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlieduperval&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+- Reach me on [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail]
+  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][linkedin]
+  <br />
 
-
-<!-- 
--- CarlieDuperval/CarlieDuperval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.  -->
+<hr />
