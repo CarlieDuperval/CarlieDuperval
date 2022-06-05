@@ -2,24 +2,15 @@
   Tech lover 💕 💕 "In Code I Trust"
   <br><br />
 - 👀 I’m interested in software Engineering / Web Development
-- 🌱 I’m currently learning MERN/MEAN Stack (Mongo , Express, Angular/React, and Node) + Some SQL
+- 🔥 🔥 🔥 MERN/MEAN Stack (Mongo , Express, Angular/React, and Node) + Some SQL
 - 💞️ I’m looking to collaborate on cool projects
 
 [gmail]: mailto:ritchellcarlie@gmail.com
 [linkedin]: https://www.linkedin.com/in/carlieduperval/
 
-### Skills
+### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,Node.js,Express.js,Bootstrap,Typescript,Python,React-Native,Electron,SASS)](https://github.com/carlieduperval)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</p>
-
-### Badges
+### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,Firestore)](https://github.com/carlieduperval)
 
 <b>My GitHub Stats</b>
 
