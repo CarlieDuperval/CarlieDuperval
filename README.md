@@ -2,10 +2,11 @@
 
 # <h1 align="center">Tech Passionate 💕 💕 "In Code I Trust" </h1>
 
+<h2>
 - 👀 I’m interested in software Engineering / Web Development
 - 🔥 🔥 🔥 MERN/MEAN Stack (Mongo , Express, Angular/React, and Node) + Some SQL
 - 💞️ I’m looking to collaborate on cool projects
-
+<h2>
 [gmail]: mailto:ritchellcarlie@gmail.com
 [linkedin]: https://www.linkedin.com/in/carlieduperval/
 
