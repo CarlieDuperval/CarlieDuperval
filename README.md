@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 ### 🤚🏾 Welcome! I’m Carlie,
 
 # <h1 align="center">Tech Passionate 💕 💕 "In Code I Trust" </h1>
