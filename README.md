@@ -1,6 +1,7 @@
-- 🤚🏾 Hi, I’m Carlie,
-  Tech lover 💕 💕 "In Code I Trust"
-  <br><br />
+### 🤚🏾 Welcome! I’m Carlie,
+
+# <h1 align="center">Tech Passionate 💕 💕 "In Code I Trust" </h1>
+
 - 👀 I’m interested in software Engineering / Web Development
 - 🔥 🔥 🔥 MERN/MEAN Stack (Mongo , Express, Angular/React, and Node) + Some SQL
 - 💞️ I’m looking to collaborate on cool projects
