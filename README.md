@@ -5,7 +5,7 @@ Software Engineer, Tech Passionate 💕 💕 "In Code I Trust"
 
 
 - 👀 I’m interested in software Engineering / Web Development
-- 🔥 🔥 🔥 MERN/MEAN Stack (Mongo , Express, Angular/React, and Node) + Some SQL
+- 🔥 🔥 🔥 MERN/MEAN Stack (Mongo , Express, React, and Node) + Some SQL
 - 💞️ I’m looking to collaborate on cool projects
 
 [gmail]: mailto:ritchellcarlie@gmail.com
